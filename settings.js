@@ -43,7 +43,7 @@ global.sgc = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.sig = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.web = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 //setbot
-global.botName = "𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎 𝐕𝟒" 
+global.botName = "⚜️HOLY_DEMON😈⚜️ 𝐕𝟒" 
 global.wm = "𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎 𝐕𝟒"
 global.fake = botName
 global.setmenu = "image" 
